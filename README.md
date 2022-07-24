@@ -1,7 +1,8 @@
 # interactive-rating-component
+
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -11,7 +12,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-    - [Desktop Active                               | Desktop Thank You                              | Mobile Active                               | Mobile Thank You](#desktop-active--------------------------------desktop-thank-you-------------------------------mobile-active--------------------------------mobile-thank-you)
+    - [Desktop Active](#desktop-active)
+    - [Desktop Thank You](#desktop-thank-you)
+    - [Mobile Active](#mobile-active)
+    - [Mobile Thank You](#mobile-thank-you)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -45,8 +49,21 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-### Desktop Active                               | Desktop Thank You                              | Mobile Active                               | Mobile Thank You 
-![](./src/assets/screenshots/Desktop-Active.png) ![](./src/assets/screenshots/Desktop-ThankYou.png) ![](./src/assets/screenshots/Mobile-Active.png) ![](./src/assets/screenshots/Mobile-ThankYou.png)
+### Desktop Active
+
+![](./src/assets/screenshots/Desktop-Active.png)
+
+### Desktop Thank You
+
+![](./src/assets/screenshots/Desktop-ThankYou.png)
+
+### Mobile Active
+
+![](./src/assets/screenshots/Mobile-Active.png)
+
+### Mobile Thank You
+
+![](./src/assets/screenshots/Mobile-ThankYou.png)
 
 ### Links
 
@@ -72,16 +89,19 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
+
 ### Continued development - TODO
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
