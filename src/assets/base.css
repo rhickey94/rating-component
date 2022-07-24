@@ -1,0 +1,61 @@
+:root {
+  --vt-c-white: hsl(0, 0%, 100%);
+
+  --vt-c-light-grey: hsl(217, 12%, 63%);
+  --vt-c-med-grey: hsl(216, 12%, 54%);
+
+  --vt-c-dark-blue: hsl(213, 19%, 18%);
+  --vt-c-very-dark-blue: hsl(216, 12%, 8%);
+
+  --vt-c-radient-black: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+
+  --vt-c-orange: hsl(25, 97%, 53%);
+
+  --vt-c-text-light-1: var(--vt-c-white);
+  --vt-c-text-light-2: var(--vt-c-light-grey);
+}
+
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--vt-c-very-dark-blue);
+  --color-form: var(--vt-c-radient-black);
+  --color-circle: var(--vt-c-dark-blue);
+  --color-heading: var(--vt-c-text-light-1);
+  --color-text: var(--vt-c-text-light-2);
+  --color-button: var(--vt-c-orange);
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--vt-c-black);
+    --color-background-soft: var(--vt-c-black-soft);
+    --color-background-mute: var(--vt-c-black-mute);
+
+    --color-border: var(--vt-c-divider-dark-2);
+    --color-border-hover: var(--vt-c-divider-dark-1);
+
+    --color-heading: var(--vt-c-text-dark-1);
+    --color-text: var(--vt-c-text-dark-2);
+  }
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  font-family: 'Overpass', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
