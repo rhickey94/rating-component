@@ -1,12 +1,9 @@
-# interactive-rating-component
-
 # Frontend Mentor - Interactive rating component solution
 
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [interactive-rating-component](#interactive-rating-component)
 - [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
@@ -32,8 +29,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
     - [Run End-to-End Tests with Cypress](#run-end-to-end-tests-with-cypress)
     - [Lint with ESLint](#lint-with-eslint)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -46,9 +41,6 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-![](./screenshot.jpg)
-
 ### Desktop Active
 
 ![](./src/assets/screenshots/Desktop-Active.png)
@@ -67,8 +59,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rhickey94/rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/rhickey94/rating-component)
+- Live Site URL: [Render](https://rating-component.onrender.com)
 
 ## My process
 
@@ -117,7 +109,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://ryanhickey.dev)
+- Website - [Ryan Hickey](https://ryanhickey.dev)
 - Frontend Mentor - [@rhickey94](https://www.frontendmentor.io/profile/rhickey94)
 
 ## Recommended IDE Setup
