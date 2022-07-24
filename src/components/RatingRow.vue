@@ -11,7 +11,7 @@ defineProps({
 
 const emit = defineEmits(["ratingSelected"]);
 
-const activeItem = ref(5);
+const activeItem = ref(null);
 
 function selected(index) {
   activeItem.value = index;
